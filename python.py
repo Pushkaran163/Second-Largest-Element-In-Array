@@ -9,7 +9,7 @@ def second_largest(arr):
     
     return -1
 
-# Approach : 2 (Two Pass Search)
+# Approach : 2 (One Pass Search)
 
 def second_largest(arr):
     n = len(arr)
