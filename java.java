@@ -14,7 +14,7 @@ public class java{
         return -1;
     }
 
-// Approach : 2 (Two Pass Search)
+// Approach : 2 (One Pass Search)
 
 static int secondLargest2(int[] arr){
     int n = arr.length;
